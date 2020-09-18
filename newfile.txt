@@ -1,1 +1,1 @@
-This file is created remotelty in repository.
+This is a remote file created remotly in repository.
